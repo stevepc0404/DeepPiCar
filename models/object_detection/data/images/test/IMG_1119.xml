@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Full Speed</name>
+		<name>Speed Limit 60</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
